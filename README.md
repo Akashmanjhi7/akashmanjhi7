@@ -9,8 +9,16 @@
 - 💻 Proficient in the **MERN Stack (MongoDB, Express, React, Node)**
 - 🧠 Preparing for **FAANG roles in Frontend + System Design**
 - 🛠️ Building full-stack projects & exploring **Data Engineering + ML**
-- 📸 I share my journey & learnings on [**Instagram**](https://instagram.com/your_profile)
+- 📸 I share my journey & learnings on [**Instagram**](https://www.instagram.com/akash.web_dev/)
 - ✨ Always learning, always building 🚀
+
+---
+
+### 🔤 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmanjhi&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
 
 ---
 
@@ -34,14 +42,13 @@
 
 ### 📂 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Netflix UI Clone** | Streaming UI in React | React, Tailwind |
-| **Agenda Planner** | Task planner with LocalStorage | React |
-| **Job Tracker API** | Full-stack CRUD App | MERN Stack |
-| **Mini Code Editor** | Live code + preview | React, WebSocket |
-
----
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Movie Web (Advanced)** | Streaming app using Redux & REST APIs | React, Redux, Axios, REST API |
+| **Licon Elevator Website** | Portfolio site for elevator brand | HTML, CSS, JavaScript |
+| **Portable House Website** | Landing page for modular homes | HTML, CSS, JavaScript |
+| **Glamour Saloon Website** | Modern website for salon business | HTML, CSS, JavaScript |
+ ---
 
 ### 🏹 Current Focus
 
